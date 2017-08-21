@@ -1,0 +1,17 @@
+Missing Slides:
+
+Setting up your Machine Learning Application-3
+Regularizing your neural network-4
+Setting up your optimization problem-3
+Setting up your optimization problem-6
+Logistic Regression as a Neural Network-7
+Logistic Regression as a Neural Network-8
+Logistic Regression as a Neural Network-10
+Python and Vectorization-2
+Python and Vectorization-4
+Python and Vectorization-6
+Python and Vectorization-8
+Shallow Neural Network-3
+Shallow Neural Network-5
+Deep Neural Network-2
+Deep Neural Network-3
