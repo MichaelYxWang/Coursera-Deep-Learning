@@ -12,7 +12,9 @@ Recourse collection contributors: [Richard Xu](https://github.com/richard3983) a
 ## Course 4 Week 2 :
 ### Case study - Classic Networks:
 **[1]** LeCun et al., 1998. "**Gradient-based learning applied to document recognition**"[[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
+
 **[2]** Simonyan & Zisserman 2015. "**Very deep convolutional networks for large-scale image recognition**"[[pdf]](https://arxiv.org/pdf/1409.1556.pdf)
+
 **[3]** Krizhevsky et al., 2012. "**ImageNet classification with deep convolutional neural networks**"[[pdf]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 ### ResNets 
