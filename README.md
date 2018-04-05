@@ -59,3 +59,84 @@ https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
 **[15]** "A neural algorithm of artistic style"[[pdf]](
 https://arxiv.org/pdf/1508.06576.pdf)
 
+
+### Course 5 Week 1 :
+#### GRU (Gated Recurrent Unit)
+**[16]** "On the Properties of Neural Machine Translation- Encoder–Decoder Approaches"[[pdf]](
+https://arxiv.org/pdf/1409.1259.pdf)
+
+**[17]** "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling"[[pdf]](
+https://arxiv.org/pdf/1412.3555.pdf)
+
+#### LSTM (Long Short Term Memory)
+**[18]** "Long Short Term Memory"[[pdf]](
+http://www.bioinf.jku.at/publications/older/2604.pdf)
+
+
+### Course 5 Week 2 :
+#### Visualize word embeddings
+**[19]** "Visualizing Data using t-SNE"[[pdf]](
+http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+
+#### Word embedding's relation to face encoding
+**[20]** "DeepFace: Closing the Gap to Human-Level Performance in Face Verification"[[pdf]](
+https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf?)
+
+#### Properties of word embeddings
+**[21]** "Linguistic Regularities in Continuous Space Word Representations"[[pdf]](
+https://www.aclweb.org/anthology/N13-1090)
+
+#### Neural Language Model
+**[22]** "Linguistic Regularities in Continuous Space Word Representations"[[pdf]](
+https://www.aclweb.org/anthology/N13-1090)
+
+#### Word2Vec
+**[23]** "Efficient Estimation of Word Representations in
+Vector Space"[[pdf]](
+https://arxiv.org/pdf/1301.3781.pdf)
+
+#### Negative sampling
+**[24]** "Distributed Representations of Words and Phrases
+and their Compositionality"[[pdf]](
+https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+
+#### Glove word embedding
+**[25]** "GloVe: Global Vectors for Word Representation"[[pdf]](https://nlp.stanford.edu/pubs/glove.pdf)
+
+#### Debiasing word embeddings
+**[26]** "Man is to Computer Programmer as Woman is to Homemaker?
+Debiasing Word Embeddings"[[pdf]](https://arxiv.org/pdf/1607.06520.pdf)
+
+
+### Course 5 Week 3 :
+#### Sequence to sequence models
+**[27]** "Sequence to Sequence Learning
+with Neural Networks"[[pdf]](
+https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+
+**[28]** "Learning Phrase Representations using RNN Encoder–Decoder
+for Statistical Machine Translation"[[pdf]](
+https://arxiv.org/pdf/1406.1078.pdf)
+
+#### Image Captioning
+**[29]** "Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)"[[pdf]](
+https://arxiv.org/abs/1412.6632)
+
+**[30]** "Show and Tell: A Neural Image Caption Generator"[[pdf]](
+https://arxiv.org/pdf/1411.4555.pdf)
+
+**[31]** "Deep Visual-Semantic Alignments for Generating Image Descriptions"[[pdf]](
+https://cs.stanford.edu/people/karpathy/cvpr2015.pdf)
+
+#### Evaluate machine translation
+**[32]** "BLEU: a Method for Automatic Evaluation of Machine Translation"[[pdf]](
+https://www.aclweb.org/anthology/P02-1040.pdf)
+
+#### Attention Model
+**[33]** "Neural Machine Translation by Jointly Learning to Align and Translate"[[pdf]](
+https://arxiv.org/pdf/1409.0473.pdf)
+
+**[34]** "
+Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"[[pdf]](
+https://arxiv.org/pdf/1502.03044.pdf)
+
