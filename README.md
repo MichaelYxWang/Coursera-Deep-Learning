@@ -7,7 +7,7 @@ This repo mainly provides the following features:
 3. Nicely commented code from helper functions to project architecture as well as a guideline of how to go through them
 4. Extend the project to end to end system: from data labeling to research diary
 
-Recourse collection contributors: [Richard Xu](https://github.com/richard3983), [Constantine Cheng](https://github.com/Consibic), [Jay Xiao](https://github.com/J-Xiao) and [Michael Wang](https://github.com/MichaelYxWang)
+Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWang), [Richard Xu](https://github.com/richard3983), [Constantine Cheng](https://github.com/Consibic) and [Jay Xiao](https://github.com/J-Xiao)
 
 
 
