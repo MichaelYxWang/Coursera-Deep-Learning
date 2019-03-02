@@ -9,7 +9,8 @@ This repo mainly provides the following features:
 
 Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWang), [Richard Xu](https://github.com/richard3983), [Constantine Cheng](https://github.com/Consibic) and [Jay Xiao](https://github.com/J-Xiao)
 
-We have also included the brilliant Chinese notes written by [Dr. Haiguang Huang]](https://github.com/fengdu78) to faciliate understanding of the material.
+We have also included the brilliant Chinese notes written by [Dr. Haiguang Huang](https://github.com/fengdu78) to faciliate understanding of the material.
+
 ### Course 4 Week 2 :
 #### Case study - Classic Networks:
 **[1]** "Gradient-based learning applied to document recognition"[[pdf]](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
