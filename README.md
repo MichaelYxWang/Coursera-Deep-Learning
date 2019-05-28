@@ -141,3 +141,7 @@ https://arxiv.org/pdf/1409.0473.pdf)
 Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"[[pdf]](
 https://arxiv.org/pdf/1502.03044.pdf)
 
+**[35]** "
+Attention Is All You Need"[[pdf]](
+https://arxiv.org/pdf/1706.03762.pdf)
+
