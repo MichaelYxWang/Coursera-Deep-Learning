@@ -137,11 +137,15 @@ https://www.aclweb.org/anthology/P02-1040.pdf)
 **[33]** "Neural Machine Translation by Jointly Learning to Align and Translate"[[pdf]](
 https://arxiv.org/pdf/1409.0473.pdf)
 
-**[34]** "
-Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"[[pdf]](
+**[34]** "Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"[[pdf]](
 https://arxiv.org/pdf/1502.03044.pdf)
 
-**[35]** "
-Attention Is All You Need"[[pdf]](
+**[35]** "Attention Is All You Need"[[pdf]](
 https://arxiv.org/pdf/1706.03762.pdf)
+
+
+#### Speech Recognition and Trigger Word Detection
+**[36]** "Connectionist Temporal Classification: Labelling Unsegmented
+Sequence Data with Recurrent Neural Networks"[[pdf]](
+https://www.cs.toronto.edu/~graves/icml_2006.pdf)
 
