@@ -2,12 +2,12 @@
 The goal of setting up this repo is to make full use of Dr Andrew Ng's Deep Learning Specialization.
 
 This repo mainly provides the following features:
-1. For review purpose : A more convenient visualization of jupyter notebooks without setting up notebook server locally.
-2. The references of papers which appear in the 5 courses as well as some notes about the papers
-3. Nicely commented code from helper functions to project architecture as well as a guideline of how to go through them
-4. Extend the project to end to end system: from data labeling to research diary
-5. Utilizae git lfs to store large resnet.h5 and vgg.mat file. Now every project should run in local without problems!
-6. (NEW from 2020!)To review the lecture notes more effectively, I organize all the concepts in the format of questions in order to build better deep learning fundations. If you want to collaborate on this, please message me :)
+1. For review purpose : A more convenient visualization of jupyter notebooks without setting up notebook server locally ✅
+2. The references of papers which appear in the 5 courses as well as some notes about the papers ✅
+3. Nicely commented code from helper functions to project architecture as well as a guideline of how to go through them (Ongoing👍)
+4. Extend the project to end to end system: from data labeling to research diary (Ongoing👍)
+5. Utilizae git lfs to store large resnet.h5 and vgg.mat file. Now every project should run in local without problems ✅
+6. (NEW from 2020!)To review the lecture notes more effectively, I organize all the concepts in the format of questions in order to build better deep learning fundations. If you want to collaborate on this, please message me :) (Ongoing👍)
 
 Recourse collection contributors: [Michael Wang](https://github.com/MichaelYxWang), [Richard Xu](https://github.com/richard3983), [Constantine Cheng](https://github.com/Consibic) and [Jay Xiao](https://github.com/J-Xiao)
 
